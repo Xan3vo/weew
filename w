@@ -3,7 +3,7 @@ local HttpService = game:GetService("HttpService")
 local UID = game:GetService("RbxAnalyticsService"):GetClientId()
 
 local SECRET_KEY = "XANZSIMPLE"
-local BASE_URL = "http://127.0.0.1:5000/getsecure"
+local BASE_URL = "https://373d-69-176-153-227.ngrok-free.app/getsecure"
 local KeyEntered = ""
 local ScriptLoaded = false
 
